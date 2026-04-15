@@ -1,0 +1,42 @@
+return {
+    piano = 'assets/music/f0-piano.ogg',
+    expert = 'assets/music/f0-expert.ogg',
+    rev = 'assets/music/f0-rev.ogg',
+    arp = 'assets/music/f0-arp.ogg',
+    bass = 'assets/music/f0-bass.ogg',
+    guitar = 'assets/music/f0-guitar.ogg',
+    pad = 'assets/music/f0-pad.ogg',
+    staccato = 'assets/music/f0-staccato.ogg',
+    violin = 'assets/music/f0-violin.ogg',
+
+    piano2 = 'assets/music/f0-piano.ogg',
+    violin2 = 'assets/music/f0-violin.ogg',
+
+    f1 = 'assets/music/f1.ogg',
+    f1ex = 'assets/music/f1ex.ogg',
+    f1rev = 'assets/music/f1rev.ogg',
+
+    f2 = 'assets/music/f2.ogg',
+    f3 = 'assets/music/f3.ogg',
+    f4 = 'assets/music/f4.ogg',
+    f5 = 'assets/music/f5.ogg',
+    f6 = 'assets/music/f6.ogg',
+    f7 = 'assets/music/f7.ogg',
+    f8 = 'assets/music/f8.ogg',
+    f9 = 'assets/music/f9.ogg',
+    f10 = 'assets/music/f10.ogg',
+    tera = 'assets/music/tera.ogg',
+
+    f2r = 'assets/music/f2-rev.ogg',
+    f3r = 'assets/music/f3-rev.ogg',
+    f4r = 'assets/music/f4-rev.ogg',
+    f5r = 'assets/music/f5-rev.ogg',
+    f6r = 'assets/music/f6-rev.ogg',
+    f7r = 'assets/music/f7-rev.ogg',
+    f8r = 'assets/music/f8-rev.ogg',
+    f9r = 'assets/music/f9-rev.ogg',
+    f10r = 'assets/music/f10-rev.ogg',
+    terar = 'assets/music/tera-rev.ogg',
+
+    fomg = 'assets/music/fomg.ogg',
+}
