@@ -37,7 +37,7 @@ end
 addMajorCredit(0000, 060, { COLOR.HEX 'B7A0FF' }, "FMICHAEL", "FOUNDER & LEAD PRODUCER", "Main Developer, Designer")
 addMajorCredit(-160, 160, { COLOR.HEX 'F880F0' }, "FLOWERLING", "CODE ASSIST, QUALITY CONTROL", "Also try Unabstracted!")
 addMajorCredit(0160, 160, { COLOR.HEX 'E9C6FF' }, "FCSPLAYZ", "CODE ASSIST", "Also try A Fool's Mod!")
-addMajorCredit(0000, 260, { COLOR.HEX 'E9C6FF' }, "BURNTTOAST", "GIT ASSIST", "Press the reset button 100 times :skull:")
+addMajorCredit(0000, 260, { COLOR.HEX '802B00' }, "BURNTTOAST", "GIT ASSIST", "Press the reset button 100 times :skull:")
 
 local timer
 local devCommentary
